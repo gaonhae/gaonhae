@@ -1,10 +1,3 @@
-about-Gaonhae
-=================================
-안녕하세요 저는 개발자 가온해입니다.
-
-Hi, I'm developer Gaonhae.
-
-
 ```java
 class Gaonhae{
 
@@ -15,5 +8,9 @@ class Gaonhae{
         this.loveCoding = true;
     }
 
+}
+
+public static void main(String args[]){
+    System.out.println("HI, I'm developer Gaonhae!!")
 }
 ```
