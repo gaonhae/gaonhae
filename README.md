@@ -1,16 +1,19 @@
-### Hi there 👋
+about-Gaonhae
+=================================
+안녕하세요 저는 개발자 가온해입니다.
 
-<!--
-**gaonhae/gaonhae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm developer Gaonhae.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+class Gaonhae{
+
+    public Gaonhae(){
+        this.name = "Gaonhae";
+        this.age = 20;
+        this.gender = "Male";
+        this.loveCoding = true;
+    }
+
+}
+```
