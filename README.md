@@ -1,5 +1,10 @@
-안녕하세요, 개발자 가온해입니다!!
-===================================
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gaonhae&fontSize=100)
+
+-------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaonhae)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------
 
 ```java
 class Gaonhae{
